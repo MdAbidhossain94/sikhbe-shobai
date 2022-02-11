@@ -1,0 +1,89 @@
+*{margin: 0;
+padding: 0;}
+a{text-decoration: none;}
+.hed{
+	width: 100%;
+	background-color: fff;
+}
+.continar
+{
+width: 1140px;
+margin: auto;
+background-color: #FFC0D3;
+}
+.navber{
+	display: flex;
+	justify-content: space-between;
+}
+.mnu ul li{list-style: none;
+display: inline-block;
+line-height: 60px;
+padding-right: 16px;
+padding-left: 16px;
+padding-bottom: 20px;
+padding-top: 16;
+}
+mnu-btn{margin-top:16px;}
+.mnu-btn button{
+	color: white ;
+	padding-top:12px ;
+	padding-bottom:12px ;
+	padding-left: 22px;
+	padding-right:22px ;
+	border: none;
+	margin-left: 10pxpx;
+	background-color: blue;
+	border-radius: 4px;
+
+
+}
+.mnu-btn button:hover{
+ background-color: red;}
+ .p-l{
+ 	width: 100%;
+ 	background-color: #FF5C8D;
+ 	padding-top: 80px;
+ 	padding-bottom: 80px;
+ }
+ .p-r{
+ 	max-width: 100px%;
+ 	height: auto;
+ }
+p-r{
+	margin-left: 32px;
+}
+.row{ display: flex; }
+.p-l,.p-r{
+	flex-basis: 50%;
+}
+.margin-left{32px}
+.p-l h2{font-size: 45px;
+	color: #07324f;
+	font-weight: 700;
+	margin-bottom: 28px;
+
+}
+.p-l h4{font-size: 24px;
+	color: #white;
+	font-weight: 300;
+	margin-bottom: 28px;
+}
+.btm{
+ 	olor: white ;
+	padding-top:12px ;
+	padding-bottom:12px ;
+	padding-left: 22px;
+	padding-right:22px ;
+	border: none;
+	margin-left: 10pxpx;
+	background-color: blue;
+	border-radius: 4px;}
+
+
+ .p-l{
+ 	width: 100%;
+ 	background-color: #FF5C8D;
+ 	padding-top: 80px;
+ 	padding-bottom: 80px;
+ }
+
